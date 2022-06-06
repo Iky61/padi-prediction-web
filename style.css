@@ -41,8 +41,10 @@ input {
 
 #good-alert {
   display: none;
+  justify-content: center;
 }
 
 #bad-alert {
   display: none;
+  justify-content: center;
 }
