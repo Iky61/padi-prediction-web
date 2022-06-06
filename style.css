@@ -1,16 +1,19 @@
 #main-title {
   display: flex;
   justify-content: center;
+  margin: 3rem;
 }
 
 h1.title {
-  color: #fff;
+  color: #ffe4c4;
+  font-size: 100px;
 }
 
 .main {
   display: grid;
-  place-items: center;
-  padding-top: 2rem;
+  justify-content: center;
+  place-items: left;
+  padding-top: 3rem;
 }
 
 form {
@@ -24,7 +27,7 @@ form div {
 }
 
 label {
-  width: 10rem;
+  width: 15rem;
 }
 
 input {
@@ -32,7 +35,8 @@ input {
 }
 
 #submit-btn {
-  border-radius: 0.6rem;
+  border-radius: 0.2rem;
+  width: 10rem;
 }
 
 #good-alert {
